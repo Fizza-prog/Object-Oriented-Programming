@@ -104,12 +104,14 @@ Application: Real-world mini-projects (Bank system, Scheduler, Tic-Tac-Toe)
 
 📫 Contact
 
-Name: Fizza
+Name: Fizza Hassaan
 
 Email: fizzahassaan84@gmail.com
 
 University: Punjab University College of Information Technology
 
 Program: BS Software Engineering
+
+ID: BSEF24M036
 
 Documenting the journey from learning OOP basics to building complete applications.
