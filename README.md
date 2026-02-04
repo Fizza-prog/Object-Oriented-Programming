@@ -31,7 +31,6 @@ OOP-CPP-Portfolio/
 ├── struct/                # Structure Implementations
 │   ├── basic structs/
 │   ├── array of structs/
-│   ├── dynamic structs/
 │   ├── nested structs/
 │   ├── pointer to structs/
 │   ├── advanced structs/
