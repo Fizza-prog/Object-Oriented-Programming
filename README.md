@@ -1,7 +1,7 @@
 💻 Object-Oriented Programming (C++) Portfolio
 👋 Introduction
 
-This repository contains my complete OOP journey in C++, originally built during 2nd semester (2024) and refined in 4th semester (2025).
+This repository contains my complete OOP journey in C++, originally built during 2nd semester (2024) and refined in 4th semester (2026).
 It includes fundamental concepts, advanced implementations, and real-world projects showcasing OOP principles.
 
 📁 Repository Structure
